@@ -35,11 +35,16 @@ this arcade serves as an engaging demo of core programming concepts like loops, 
 **File Structure**
 
 plaintext
+
 ├── Arcade.c          # Main source code file containing all game logic
+
 ├── Arcade.exe        # Compiled executable (Windows)
+
 ├── Arcade.o          # Object file
+
 ├── words.txt         # Word list for Hangman (expected to be in working dir)
 
 **Tech Stack**
 Language: C
+
 Libraries Used: stdio.h, stdlib.h, string.h, ctype.h, time.h, math.h
