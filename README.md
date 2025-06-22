@@ -6,15 +6,23 @@ this arcade serves as an engaging demo of core programming concepts like loops, 
 **Games Included**
 
 
-**Number Guessing Game** : Guess a randomly generated number within a range. 
-**Hangman**              : Classic letter-guessing word game with a custom ASCII hangman board. 
-**Quiz Game**            : Choose from categories like films, politics, GK, and YouTube. Includes scoring system.
-**Number Sequence Game** : Arrange randomly shuffled numbers into ascending order using swaps.
-**Fortune Teller**       : Enter your birthdate to receive zodiac-based horoscopes.
-**Tic Tac Toe**          : Two-player grid-based game with winner logic.
-**Rock Paper Scissors**  : Play against the computer for 5 rounds.
-**High-Low Dice Game**   : Bet your virtual money based on the outcome of dice rolls.
-**High-Low Card Game**   : Predict whether the next card in a shuffled deck will be higher or lower.
+1.**Number Guessing Game** : Guess a randomly generated number within a range. 
+
+2.**Hangman**              : Classic letter-guessing word game with a custom ASCII hangman board. 
+
+3.**Quiz Game**            : Choose from categories like films, politics, GK, and YouTube. Includes scoring system.
+
+4.**Number Sequence Game** : Arrange randomly shuffled numbers into ascending order using swaps.
+
+5.**Fortune Teller**       : Enter your birthdate to receive zodiac-based horoscopes.
+
+6.**Tic Tac Toe**          : Two-player grid-based game with winner logic.
+
+7.**Rock Paper Scissors**  : Play against the computer for 5 rounds.
+
+8.**High-Low Dice Game**   : Bet your virtual money based on the outcome of dice rolls.
+
+9.**High-Low Card Game**   : Predict whether the next card in a shuffled deck will be higher or lower.
 
 **Features**
 
